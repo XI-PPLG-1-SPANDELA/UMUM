@@ -1,0 +1,86 @@
+================================================(Epson EVB X5000)
+Teks Prosedur 
+================================================
+Tekas prosedur addalah jenis teks atau tulisan yang berisi instruksi 
+langkah demi langkah tentang cara melakukan suatu tugas atau kegiatan 
+tertentu. Teks prosedur ditulis secara terstruktur dan jelas agar
+pembaca dapat mengikuti langkah-langkahnya dengan mudah. Tujuan utama
+dari teks prosedur adalah memberikan panduan yang tepat dan terperinci 
+untuk membantu pembaca mencapai hasil yang diinginkan.
+
+Teks Prosedur adalah teks yang berisi langkah langkah untuk mencapai 
+tujuan tertentu 
+
+Steruktur 
+- Tujuan 
+- Material 
+- Langkah Langkah
+- Penegasan Ulang 
+
+Karateristik 
+-Berisikan Langkah Langkah 
+-Tujuan tertentu 
+-Sistematis Dan Detail 
+-Terdapat saran atau larangan 
+
+Kaidah Bahasa 
+-Bersifat Parsuasif 
+-Menggunakan Kalimat Imperatif, deklaratif, introgatif 
+-Konjungsi Urutan Waktu (Temporal)
+-Verba Material 
+========================================================================
+Keterangan 
+1. Pesuasif:Ajakan, Bujukan Pengaruh 
+2. Imperatif:Kalimat perinntah dan diakhiri tanda seru (!)
+3. Kalimat dekrlaratif: Kalimat peryantaan dan di akhiri tanda titik (.)
+4. Kalimat Introgatif:Kalimat tanya di akhiri tanda tanya  (?)
+5. Konjungsi Teporal:Konjungsi yang menyatakan urutan langkah 
+6. Verba Material : Verba yang mengaju pada tindakan fisik 
+	Contohnya: Mengukus  
+
+
+================================================================================================================================================================================================================================================================================================
+**Cara Menggunakan POP OS**
+
+**Pengenalan:**
+POP OS adalah sistem operasi berbasis Linux yang user-friendly dan cocok untuk penggunaan sehari-hari. Panduan ini akan membantu Anda memahami cara menggunakan POP OS dengan langkah-langkah yang sederhana.
+
+**Daftar Persiapan:**
+- Komputer atau laptop yang telah diinstal dengan POP OS.
+- Keyboard dan mouse (jika digunakan).
+- Koneksi internet (opsional untuk mengunduh dan memperbarui aplikasi).
+
+**Langkah-langkah:**
+
+1. **Memahami Antarmuka Pengguna (Desktop):**
+   Setelah memulai POP OS, Anda akan melihat antarmuka pengguna atau desktop. Desktop ini terdiri dari panel atas dan dock bawah (jika digunakan). Familiarisasi diri dengan tata letak dan ikon-ikon yang ada di desktop.
+
+2. **Navigasi Menu Aplikasi:**
+   Untuk membuka aplikasi, klik ikon "Show Applications" di panel atas atau tekan tombol "Super" (biasanya dengan logo Windows) pada keyboard. Ini akan membuka menu aplikasi yang berisi daftar aplikasi yang terinstal.
+
+3. **Menggunakan Aplikasi:**
+   Untuk membuka aplikasi, cukup klik ikon aplikasi yang diinginkan dari menu aplikasi. Aplikasi akan mulai terbuka di desktop.
+
+4. **Mengelola Jendela Aplikasi:**
+   Untuk mengelola jendela aplikasi, gunakan tombol "Minimize", "Maximize", dan "Close" di pojok kanan atas jendela. Untuk menggeser atau memperbesar jendela, seret ujung jendela sesuai keinginan.
+
+5. **Mengunduh Aplikasi Baru:**
+   Jika Anda ingin mengunduh aplikasi baru, buka "Pop!_Shop" (ikon tas belanja) dari menu aplikasi. Di sini, Anda dapat mencari dan mengunduh aplikasi tambahan yang tersedia di repositori POP OS.
+
+6. **Mengatur Koneksi Internet:**
+   Untuk mengatur koneksi internet, klik ikon jaringan di panel atas. Anda dapat memilih jaringan Wi-Fi yang tersedia dan memasukkan kata sandi jika diperlukan.
+
+7. **Mengatur Pengaturan Sistem:**
+   Untuk mengakses pengaturan sistem, klik ikon roda gigi di panel atas dan pilih "Settings". Di sini, Anda dapat mengatur berbagai pengaturan sistem, seperti tampilan, suara, jaringan, dan lain-lain.
+
+8. **Mengelola File:**
+   Untuk membuka pengelola file, klik ikon "Files" (gambar folder) di dock bawah (jika digunakan) atau buka dari menu aplikasi. Di pengelola file, Anda dapat mengakses dan mengelola file dan folder di komputer Anda.
+
+9. **Menutup POP OS:**
+   Untuk menutup POP OS, klik ikon "Power" di panel atas dan pilih "Shut Down" atau "Restart" sesuai keinginan. Pastikan Anda sudah menyimpan pekerjaan Anda sebelum menutup sistem.
+
+**Tips Tambahan:**
+- Jika Anda mengalami masalah atau memerlukan bantuan lebih lanjut, Anda dapat mencari dukungan di komunitas POP OS atau forum Linux.
+- Selalu perbarui sistem secara teratur untuk memastikan Anda mendapatkan fitur terbaru dan perbaikan keamanan.
+
+Catatan: Penggunaan POP OS mungkin sedikit berbeda dari sistem operasi lainnya, tetapi dengan latihan dan eksplorasi, Anda akan dengan cepat terbiasa menggunakan POP OS dengan lancar. Jangan ragu untuk mengeksplorasi lebih banyak dan menyesuaikan sistem sesuai kebutuhan Anda.
