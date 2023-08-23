@@ -1,0 +1,44 @@
+=====================================================================
+Teks Eksplanasi 
+=====================================================================
+Teks Eksplanasi adalah teks yang berisi proses/sebab akibat 
+terjadinya suatu peristiwa
+=====================================================================
+Strutuktur :
+-Uentifikasi Peristiwa
+-Deretan Penjelasan 
+-Interpretasi/Ulasan 
+=====================================================================
+Karateristik :
+-Berdasarkan Fakta 
+-Bersifat Informatif 
+-Tidak Parsuasif
+-Fkus pada hal hal umum 
+=====================================================================
+Kaidah Kebahasaan :
+Menggunakan 
+-Konjungsi Kronologis 
+-Konjungsi Kausalitas 
+-Kalimat Kalimat Pasif 
+- Istilah Istilah Ilmiah 
+=====================================================================
+Keterangan  :
+*Konjungsi Keronologis sama dengan konjungsi yang menghubungkan Peristiwa 
+satu dengan peristiwa selanjutnya 
+*Konjungsi Kausalitas konjungsi yang menghubungkan dua hal yang merupakan 
+sebab dan akibat (Jika, Kalau, Bila, Karena, Maka, DLL)
+*Kalimat Pasif kalimat yang subbjeknya di kenai tindakan (Bunga Mawar Itu
+ditanam Ibu)
+
+
+
+
+
+
+
+
+
+
+
+
+
