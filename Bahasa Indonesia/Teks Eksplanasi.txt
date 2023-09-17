@@ -25,10 +25,13 @@ Menggunakan
 Keterangan  :
 *Konjungsi Keronologis sama dengan konjungsi yang menghubungkan Peristiwa 
 satu dengan peristiwa selanjutnya 
+contohnya : Saya mencari kunci saya di mana-mana, dan akhirnya, saya menemukannya di dalam tas saya.
 *Konjungsi Kausalitas konjungsi yang menghubungkan dua hal yang merupakan 
 sebab dan akibat (Jika, Kalau, Bila, Karena, Maka, DLL)
+contohnya : Saya terlambat ke kantor karena macet di jalan. 
 *Kalimat Pasif kalimat yang subbjeknya di kenai tindakan (Bunga Mawar Itu
 ditanam Ibu)
+
 
 
 

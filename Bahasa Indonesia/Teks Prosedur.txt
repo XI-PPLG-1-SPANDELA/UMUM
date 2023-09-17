@@ -3,13 +3,18 @@ Teks Prosedur
 ================================================
 Tekas prosedur addalah jenis teks atau tulisan yang berisi instruksi 
 langkah demi langkah tentang cara melakukan suatu tugas atau kegiatan 
-tertentu. Teks prosedur ditulis secara terstruktur dan jelas agar
-pembaca dapat mengikuti langkah-langkahnya dengan mudah. Tujuan utama
+tertentu.
+Teks prosedur ditulis secara terstruktur dan jelas agar
+pembaca dapat mengikuti langkah-langkahnya dengan mudah. 
+
+Tujuan utama
 dari teks prosedur adalah memberikan panduan yang tepat dan terperinci 
 untuk membantu pembaca mencapai hasil yang diinginkan.
+================================================
 
 Teks Prosedur adalah teks yang berisi langkah langkah untuk mencapai 
 tujuan tertentu 
+================================================
 
 Steruktur 
 - Tujuan 
