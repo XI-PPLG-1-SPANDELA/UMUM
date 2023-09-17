@@ -1,4 +1,4 @@
-================================================(Epson EVB X5000)
+================================================	(Epson EVB X5000)
 Teks Prosedur 
 ================================================
 Tekas prosedur addalah jenis teks atau tulisan yang berisi instruksi 
@@ -42,6 +42,58 @@ Keterangan
 5. Konjungsi Teporal:Konjungsi yang menyatakan urutan langkah 
 6. Verba Material : Verba yang mengaju pada tindakan fisik 
 	Contohnya: Mengukus  
+
+
+
+========================================================================
+*Kalimat Kalimat Yang Mengandun Unnsur Teks Prsedur 
+*Kalimat persuasif adalah jenis kalimat yang digunakan untuk membujuk atau meyakinkan seseorang tentang suatu pandangan atau tindakan tertentu. Berikut adalah beberapa contoh kalimat persuasif:
+1. "Saya sangat merekomendasikan Anda mencoba produk ini, karena kualitasnya luar biasa."
+2. "Mari kita bersama-sama berkontribusi untuk menjaga lingkungan dengan mengurangi penggunaan plastik."
+3. "Penting bagi kita semua untuk mendukung pendidikan anak-anak di daerah terpencil."
+4. "Saya yakin Anda akan menemukan bahwa bekerja bersama dalam tim akan meningkatkan produktivitas kita."
+5. "Jika kita berolahraga secara teratur dan menjaga pola makan sehat, kita dapat mencapai gaya hidup yang lebih sehat."
+Dalam kalimat-kalimat ini, penekanan diberikan pada meyakinkan atau mengajak pendengar atau pembaca untuk melakukan tindakan atau mempercayai suatu ide atau pandangan. Kalimat persuasif biasanya mengandung argumen atau bukti yang mendukung pandangan atau tindakan yang diusulkan.
+
+*Kalimat imperatif digunakan untuk memberikan perintah, instruksi, atau permintaan kepada seseorang. Berikut adalah beberapa contoh kalimat imperatif:
+1. Tutup pintu rapat-rapat.
+2. Tolong ambilkan saya sebotol air minum.
+3. Jangan lupa mengumpulkan tugas sekolahmu.
+4. Segera berhenti di persimpangan ini.
+5. Bantu saya membawa koper ini ke mobil.
+Dalam kalimat-kalimat imperatif, kata kerja biasanya berada dalam bentuk dasar (base form) tanpa subjek yang jelas. Kalimat ini dirancang untuk memerintahkan atau meminta seseorang melakukan sesuatu dengan tegas dan langsung.
+
+*Kalimat deklaratif adalah jenis kalimat yang digunakan untuk menyatakan fakta, pendapat, atau informasi. Berikut adalah beberapa contoh kalimat deklaratif:
+1. Matahari terbit di timur dan terbenam di barat.
+2. Saya suka makanan pedas.
+3. Indonesia adalah negara kepulauan terbesar di dunia.
+4. Hujan adalah bentuk presipitasi.
+5. Hari ini adalah hari yang indah.
+Dalam kalimat-kalimat deklaratif, tujuannya adalah untuk mengungkapkan sebuah pernyataan atau informasi yang biasanya tidak diragukan atau dipertanyakan. Kalimat ini cenderung berupa pernyataan yang jelas dan faktual.
+
+*Kalimat interrogatif adalah jenis kalimat yang digunakan untuk mengajukan pertanyaan. Berikut adalah beberapa contoh kalimat interrogatif:
+1. Apa namamu?
+2. Kapan ulang tahunmu?
+3. Di mana Anda tinggal?
+4. Bagaimana cara memasak spaghetti?
+5. Mengapa kamu terlambat?
+Dalam kalimat-kalimat interrogatif, tujuannya adalah untuk mendapatkan informasi atau jawaban dari orang yang diajak berbicara. Kalimat ini biasanya dimulai dengan kata tanya seperti "apa," "kapan," "di mana," "bagaimana," atau "mengapa."
+
+*Konjungsi temporal digunakan untuk menghubungkan peristiwa atau ide yang berkaitan dengan waktu dalam sebuah kalimat. Berikut adalah beberapa contoh konjungsi temporal:
+1. **Setelah** makan siang, saya akan pergi ke toko.
+2. Saya mencuci piring **kemudian** membersihkan rumah.
+3. **Sebelum** kamu pergi, tolong kirimkan pesan singkat.
+4. Dia datang **ketika** hujan turun dengan deras.
+5. Saya akan menyelesaikan pekerjaan ini **segera setelah** menerima instruksi lebih lanjut.
+Dalam kalimat-kalimat di atas, konjungsi temporal seperti "setelah," "kemudian," "sebelum," "ketika," dan "segera setelah" digunakan untuk mengindikasikan urutan waktu antara peristiwa atau tindakan yang terjadi dalam kalimat tersebut.
+
+*Verba material adalah kata kerja yang merujuk kepada tindakan atau aktivitas yang dapat diamati secara fisik atau dapat dilihat dalam bentuk konkret. Berikut adalah beberapa contoh verba material:
+1. **Menggambar**: Dia sedang **menggambar** pemandangan indah di atas kertas.
+2. **Memasak**: Ibuku suka **memasak** hidangan lezat setiap akhir pekan.
+3. **Membangun**: Tim konstruksi sedang **membangun** gedung tinggi di pusat kota.
+4. **Melukis**: Seniman itu telah **melukis** lukisan abstrak yang menakjubkan.
+5. **Menanam**: Kami akan **menanam** bunga-bunga di taman besok.
+Verba material ini menggambarkan tindakan nyata yang melibatkan interaksi fisik atau kegiatan konkret yang dapat dilihat atau diobservasi oleh seseorang.
 
 
 ================================================================================================================================================================================================================================================================================================
