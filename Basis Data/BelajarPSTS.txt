@@ -1,0 +1,36 @@
+======================================================================================
+Basis Data 
+======================================================================================
+*Pengertian Basis Data
+Basis Data adalah skumpulan data yang teorganisir secara sistematis yang tersimpan di satu 
+lokasi yang diakses dan dikelola dengan mudah 
+
+*Basis Data 
+Kumpulan data yang berhubungan yang di simpan seara bersama sedemikian rupa dan pengurangan yang
+tidak perlu, untuk memenuhi berbagai kebutuhan 
+
+*Basis Data 
+Merpakan markas atau sebuah gudang tempat berkumpull suatu data 
+
+*DBMS (Data Base Menejement Scuare) 
+Sebuah tatanan yang terdiri atas sejumlah komponen yang saling berhubungan dan secara bersama 
+sama bertujuan untuk memenuhi pekerjaan tertntu
+
+*DBMS 
+Perangkat lunak yang didesain untuk membantu memenuhi dan memanfaatkan kumpulan data yang besar
+
+*Keuntungan DBMS 
+-Mengurangi pengulangan data 
+-Mencapai Independensi data 
+-Intregitas Berberapa file 
+-meningkatkan keamanan 
+
+*Kerugian DBMS 
+-Memperoleh perangkat lunak yang mahal 
+-Memperoleh Kongfigurasi perangkat yang besar 
+-Pemerkerjaan staf SDA
+
+*Tujuan Dan Manfaat Menggunakan Basis Data 
+
+
+
