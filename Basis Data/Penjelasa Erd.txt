@@ -1,0 +1,59 @@
+Dalam membuat sebuah database, kamu dianjurkan untuk terlebih dahulu menentukan komponen dan relasi apa saja yang diperlukan untuk kamu menyusun dan menyimpan sebuah data atau informasi dengan benar. Itulah kegunaan dari ERD. Tapi apa sih ERD itu? Apa saja model data ERD dan apa komponen yang digunakan dalam ERD? Mari kita bahas dalam artikel ini.
+
+Entity Relationship Diagram
+ERD (Entity Relationship Diagram) atau diagram hubungan entitas adalah sebuah diagram yang digunakan untuk perancangan suatu database dan menunjukan relasi atau hubungan antar objek atau entitas beserta atribut-atributnya secara detail. Dengan menggunakan ERD, sistem database yang sedang dibentuk dapat digambarkan dengan lebih terstruktur dan terlihat rapi.
+
+Selain digunakan dalam perancangan database, ERD sendiri sering digunakan untuk debugging database jika terjadi masalah pada database. Untuk melakukan debug pada database bukanlah hal yang mudah, terlebih lagi jika database yang mengalami masalah memiliki banyak tabel dan memerlukan penulisan SQL yang kompleks. Dengan menggambarkan skema database menggunakan ERD, kamu menjadi lebih mudah untuk menemukan permasalahan yang terjadi dalam database dan menyelesaikan masalah dengan mudah.
+
+Model Data ERD
+Sebelum membuat perancangan sistem yang tepat, kamu harus terlebih dahulu mengetahui jenis model data yang digunakan. Karena model data tersebut nantinya akan berpengaruh dalam pengembangan sistem. Model ini juga berguna untuk membuat dokumentasi dari segala bentuk arsitektur data. Model ini dibagi ke dalam tiga model. Berikut adalah penjelasannya.
+
+Model data konseptual
+Model data ini adalah model data paling tinggi karena di dalamnya berisi data-data yang detail. Data konseptual ini dapat kamu gunakan sebagai dasar untuk membuat satu atau lebih model data logis. Tujuan dari pengembangan model data konseptual adalah untuk memberikan gambaran yang jelas mengenai struktur database yang terdiri dari entitas dan relasi antara setiap entitas.
+
+Model data logis
+Berikutnya adalah model data logis. Model data logis ini adalah pengembangan dari model data konseptual, itu sebabnya dalam proses pembuatannya model data ini dibuat lebih rinci dari model data konseptual dan dibuat setelah model data konseptual selesai dibuat. Model ini digunakan untuk menambahkan informasi secara eksplisit kedalam unsur-unsur model konseptual. Terdapat juga beberapa komponen dalam model data ini, seperti entitas data master, operasional, dan transaksional.
+
+Model data fisik
+Yang terakhir adalah model data fisik. Model data fisik adalah pengembangan dari masing-masing model data logis. Model data ini biasanya digunakan untuk merancang sebuah database.
+
+Komponen ERD
+Setelah mengetahui apa saja model data dari ER diagram, sekarang kita akan membahas komponen-komponen yang digunakan dalam membuat ER diagram. Dalam sebuah ERD sendiri terdapat empat komponen utama untuk memodelkan suatu sistem. Berikut adalah komponen-komponennya.
+
+Entitas
+Yang pertama adalah entitas. Entitas merupakan sekumpulan objek yang dapat diidentifikasi secara unik dan berbeda satu dengan yang lainnya. Entitas ini biasanya digambarkan dengan lambang persegi panjang.
+
+Lalu, ada juga yang dinamakan “Entitas lemah”. Entitas lemah ini digambarkan dengan lambang persegi panjang kecil di dalam persegi panjang yang lebih besar. Mengapa disebut dengan entitas lemah? Karena entitas tersebut harus terhubung langsung dengan entitas lain, sebab entitas lemah ini tidak dapat diidentifikasi secara unik.
+
+Atribut
+Selanjutnya adalah atribut. Setiap entitas pasti memiliki atribut yang berfungsi untuk menjelaskan atau mendeskripsikan karakteristik dari entitas tersebut. Ada beberapa jenis atribut yang biasa digunakan dalam ERD. Berikut adalah jenis-jenisnya.
+
+Atribut kunci
+Atribut kunci atau Key Attributes adalah atribut yang berfungsi untuk menentukan data yang bersifat penting. Biasanya atribut kunci ini berbentuk angka atau numerik. Contoh dari atribut ini adalah No. KTP, NIM (Nomor Induk Mahasiswa), dan lain-lain. Atribut kunci ini dilambangkan dengan lingkaran lonjong dengan keterangan di dalamnya yang diberi garis bawah.
+
+Atribut simpel
+Berikutnya adalah atribut simpel. Atribut simpel adalah atribut yang tidak dapat dipecah lagi dan bernilai tunggal. Contoh dari atribut ini adalah alamat kantor, nama penerbit, dan lain-lain.
+
+Atribut multinilai
+Atribut multinilai atau Multivalue Attributes adalah atribut yang memiliki atribut lebih dari satu nilai. Contoh dari atribut ini adalah sebuah website artikel yang memiliki beberapa penulis.
+
+Atribut gabungan
+Selanjutnya adalah atribut gabungan atau Composite Attributes. Atribut gabungan adalah atribut yang terdiri dari beberapa atribut yang berukuran lebih kecil dan memiliki arti tertentu. Contoh dari atribut ini adalah sebuah nama yang terdiri atas nama depan, nama tengah, dan nama belakang.
+
+Atribut derivvatif
+Yang terakhir adalah atribut derivatif. Atribut derivatif adalah atribut yang dihasilkan dari atribut lain dan atributnya tidak wajib untuk ditulis dalam Entity Relationship Diagram. Contoh dari atribut ini adalah selisih harga, usia, dan kelas.
+
+Relasi
+Komponen ketiga adalah relasi atau relation. Relasi dalam ERD adalah hubungan yang terjadi antara satu atau lebih entitas. Relasi sendiri sering disebut dengan proses. Komponen ini digambarkan dengan lambang belah ketupat. Terdapat tiga jenis relasi yang digunakan dalam ERD dan perlu kamu ketahui, berikut adalah jenisnya.
+
+One to one
+One to one berarti setiap entitas hanya dapat memiliki relasi dengan satu entitas lain. Contohnya seperti data mahasiswa dengan NIM (Nomor Induk Siswa).
+
+One to many
+One to many memiliki arti satu entitas dapat memiliki relasi dengan beberapa entitas, begitu pula sebaliknya. Contoh dari implementasi one to many ini adalah jurusan dengan mahasiswanya.
+
+Many to many
+Many to many memiliki arti setiap entitas yang ada dapat memiliki relasi dengan entitas lain, begitu pula sebaliknya. Contoh dari relasi ini adalah mahasiswa dengan data terkait UKM (Unit Kegiatan Mahasiswa).
+
+Garis
+Komponen terakhir adalah garis. Dalam ERD sendiri garis digunakan untuk menunjukkan hubungan entitas dalam ERD. Selain menjadi penghubung, garis juga dapat menunjukkan alur atau flow dari suatu ERD.

@@ -1,0 +1,96 @@
+======================================================================================
+Basis Data 
+======================================================================================
+*Pengertian Basis Data
+Secara Harpiah adalah Markas atau Gudang tempat berkupul 
+Basis Data adalah skumpulan data yang teorganisir secara sistematis yang tersimpan di satu 
+lokasi yang diakses dan dikelola dengan mudah 
+
+*Basis Data 
+Kumpulan data yang berhubungan yang di simpan seara bersama sedemikian rupa dan pengurangan yang
+tidak perlu, untuk memenuhi berbagai kebutuhan 
+
+*Basis Data 
+Merpakan markas atau sebuah gudang tempat berkumpull suatu data 
+
+*DBMS (Data Base Menejement Scuare) 
+Sebuah tatanan yang terdiri atas sejumlah komponen yang saling berhubungan dan secara bersama 
+sama bertujuan untuk memenuhi pekerjaan tertntu
+
+*DBMS 
+Perangkat lunak yang didesain untuk membantu memenuhi dan memanfaatkan kumpulan data yang besar
+
+*Keuntungan DBMS 
+-Mengurangi pengulangan data 
+-Mencapai Independensi data 
+-Intregitas Berberapa file 
+-meningkatkan keamanan 
+-Pengambilan data yang cepat 
+
+*Kerugian DBMS 
+-Memperoleh perangkat lunak yang mahal 
+-Memperoleh Kongfigurasi perangkat yang besar 
+-Pemerkerjaan staf SDA
+
+*Level dalam basis data pengerian dan contohnya 
+1. **Level Fisik (Physical Level):**
+   - **Penjelasan:** Level fisik menggambarkan cara data disimpan di tingkat fisik atau hardware. Ini termasuk struktur penyimpanan data seperti tabel, indeks, dan ruang penyimpanan fisik.
+   - **Contoh:** Dalam sistem basis data relasional, tabel "Pegawai" disimpan dalam bentuk file di dalam sistem penyimpanan fisik, mungkin dalam bentuk file berformat B-Tree atau tabel hash.
+2. **Level Konseptual (Conceptual Level):**
+   - **Penjelasan:** Level konseptual menggambarkan skema database secara keseluruhan, termasuk semua tabel, relasi, dan struktur data. Ini adalah pandangan abstrak tentang keseluruhan basis data.
+   - **Contoh:** Dalam sebuah sistem basis data perpustakaan, level konseptual akan mencakup tabel "Buku," "Peminjaman," "Anggota," dan hubungan antara mereka.
+3. **Level Logika (Logical Level):**
+   - **Penjelasan:** Level logika menggambarkan pandangan terstruktur tentang data yang diorganisasi dalam tabel, relasi, dan entitas. Ini adalah pandangan yang digunakan oleh pengguna aplikasi dan pengembang.
+   - **Contoh:** Dalam basis data relasional, level logika mencakup tabel "Pesanan" dengan kolom-kolom seperti "Nomor Pesanan," "Tanggal Pesanan," dan "Total Harga."
+4. **Level Pengguna (User Level):**
+   - **Penjelasan:** Level pengguna adalah tingkatan yang digunakan oleh pengguna akhir dan aplikasi untuk berinteraksi dengan data. Ini adalah pandangan paling tinggi dalam hierarki.
+   - **Contoh:** Seorang karyawan yang menggunakan aplikasi penjualan untuk mengakses dan memasukkan data pesanan merupakan contoh pengguna di tingkat ini.
+
+
+*Tujuan Dan Manfaat Menggunakan Basis Data 
+1. **Pengelolaan Data yang Efisien:** Basis data memungkinkan pengelolaan data yang lebih efisien. Data dapat disimpan secara terstruktur dan terpusat, sehingga memudahkan akses, pencarian, pembaruan, dan penghapusan data.
+2. **Keamanan Data:** Basis data dapat dilengkapi dengan tingkat keamanan yang tinggi, termasuk pengaturan hak akses. Ini membantu melindungi data sensitif dari akses yang tidak sah atau perubahan yang tidak diizinkan.
+3. **Konsistensi Data:** Basis data memastikan konsistensi data dengan menghindari duplikasi dan inkonsistensi dalam penyimpanan data. Ini memastikan bahwa data yang sama digunakan secara seragam di seluruh organisasi.
+4. **Pembaruan Mudah:** Ketika ada perubahan dalam data, seperti perubahan alamat pelanggan atau harga produk, perubahan hanya perlu dilakukan sekali di basis data. Perubahan tersebut akan otomatis tercermin di seluruh sistem yang menggunakan data tersebut.
+5. **Pengambilan Keputusan yang Lebih Baik:** Basis data menyediakan alat untuk menganalisis data, membuat laporan, dan menghasilkan wawasan bisnis. Ini membantu dalam pengambilan keputusan yang lebih baik berdasarkan data yang akurat dan terpercaya.
+6. **Skalabilitas:** Basis data dapat berkembang seiring waktu dengan penambahan data baru. Ini memungkinkan organisasi untuk mengelola data seiring dengan pertumbuhan bisnis mereka tanpa mengganggu operasi yang ada.
+7. **Pemulihan Data:** Basis data sering dilengkapi dengan fitur pemulihan data, seperti pencadangan rutin. Ini membantu dalam memulihkan data jika terjadi kegagalan sistem atau kejadian tak terduga lainnya.
+8. **Integrasi Aplikasi:** Basis data memungkinkan integrasi data dari berbagai aplikasi atau sistem dalam organisasi. Ini memungkinkan data untuk digunakan secara konsisten di seluruh organisasi.
+9. **Efisiensi Penyimpanan:** Basis data dapat mengelola penyimpanan data dengan lebih efisien dengan kompresi dan optimasi penyimpanan. Ini mengurangi kebutuhan akan ruang penyimpanan fisik.
+10. **Audit dan Pelacakan:** Basis data memungkinkan pencatatan dan pelacakan aktivitas yang dilakukan pada data. Ini bermanfaat untuk audit keamanan dan perubahan data.
+
+*Baasa Pemrograman Dalam SQL
+-DDL
+DDL (Data Definition Language) adalah bagian dari SQL (Structured Query Language) yang digunakan untuk mendefinisikan, mengelola, dan mengatur
+ struktur objek-objek dalam sebuah basis data. DDL digunakan untuk membuat, mengubah, atau menghapus tabel, indeks, dan objek-objek lain dalam basis data. 
+Berikut adalah beberapa perintah DDL yang umum digunakan:
+CREATE TABLE: Digunakan untuk membuat tabel baru dalam basis data.
+CREATE TABLE nama_tabel (
+    kolom1 tipe_data1,
+    kolom2 tipe_data2,
+    ...
+);
+
+-DML
+DML (Data Manipulation Language) adalah bagian dari SQL (Structured Query Language) yang digunakan untuk mengelola data dalam basis 
+data relasional. DML berfokus pada operasi-operasi yang memungkinkan Anda untuk memasukkan, memperbarui, menghapus, dan mengambil 
+data dari tabel. Berikut adalah beberapa perintah DML yang umum digunakan:
+INSERT INTO: Digunakan untuk memasukkan data baru ke dalam tabel.
+INSERT INTO nama_tabel (kolom1, kolom2, ...) VALUES (nilai1, nilai2, ...);
+
+-DCL
+DCL (Data Control Language) adalah salah satu subset dari SQL (Structured Query Language) yang digunakan untuk mengendalikan 
+izin akses dan hak pengguna dalam basis data relasional. DCL mengizinkan administrator basis data untuk mengatur, memberikan, 
+mencabut, atau membatasi hak akses pengguna terhadap tabel, tampilan, prosedur penyimpanan, dan objek basis data lainnya. 
+Dua perintah DCL yang umum digunakan adalah:
+1. **GRANT:** Perintah `GRANT` digunakan untuk memberikan hak akses kepada pengguna atau peran tertentu dalam basis data. 
+Hak akses ini dapat mencakup hak untuk menjalankan perintah `SELECT`, `INSERT`, `UPDATE`, `DELETE`,
+
+-TCL
+TCL (Transaction Control Language) adalah salah satu subset dari SQL (Structured Query Language) yang digunakan 
+untuk mengendalikan transaksi dalam basis data relasional. TCL digunakan untuk memulai, mengakhiri, atau mengelola 
+transaksi dalam lingkungan basis data. Terdapat dua perintah utama dalam TCL:
+COMMIT: Perintah COMMIT digunakan untuk mengakhiri transaksi dan menyimpan perubahan yang telah dilakukan ke dalam basis
+ data secara permanen. Setelah COMMIT dieksekusi, perubahan akan menjadi permanen dan tidak dapat dibatalkan.
+Contoh:
+COMMIT;
